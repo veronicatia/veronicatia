@@ -43,15 +43,6 @@ I'm a tech enthusiast with a strong interest in geospatial technology, front-end
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veronicatia&show_icons=true&theme=radical" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veronicatia&theme=radical" width="47%"/>
-</p>
-
----
-
 ### 🌐 Let’s Connect!
 - 🌍 [LinkedIn](https://linkedin.com/in/veronicatia)
 - 💌 Email: veronicatianingrum@mail.ugm.ac.id  
