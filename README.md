@@ -10,7 +10,7 @@
 I'm a tech enthusiast with a strong interest in geospatial technology, front-end development, and cloud-based automation. I love building digital tools that connect data, maps, and people.
 
 - 🔭 Currently working on: **WebGIS Applications**, **Drone Mapping**, and **Disaster Mitigation Tools**
-- 📚 Learning: **Leaflet.js**, **MapLibre**, **Ionic + Angular**, **Google Earth Engine**, and **Cloud-Based Automation (App Script)**
+- 📚 Learning: **Leaflet.js**, **MapLibre**, **Ionic + Angular**, **Google Earth Engine**, **Rest API** and **Cloud-Based Automation (App Script)**
 - 🎓 Undergraduate Geographic Information Student at Universitas Gadjah Mada (UGM)
 - 🌱 Passionate about **WebGIS Developer**, **Application Developer**, **Spatial Data Science**, **UI/UX Design**, and **Open Source**
 
